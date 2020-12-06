@@ -1,10 +1,11 @@
-# Svelte Starterkit
+# Svelte Template
 
-Install
+Boilerplate for routed svelte websites
+
 ```
-git clone ...
-cd svelte-starterkit
 npm install
+npm run dev
+npm run build
 ```
 
 ## Used packages
@@ -15,9 +16,3 @@ npm install
 - [`svelte-routing`](svelte-routing)
 - [`lazysizes`](https://github.com/aFarkas/lazysizes)
 - [`swipejs`](https://swipe.js.org)
-
-## Deploy
-
-```
-npm run build
-```
