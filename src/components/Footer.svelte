@@ -8,7 +8,7 @@
 
 </footer>
 
-<style type="text/scss">
+<style lang="scss">
 
     footer {
         padding: 1rem;

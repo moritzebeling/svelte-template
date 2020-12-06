@@ -18,7 +18,7 @@
 
 </header>
 
-<style type="text/scss">
+<style lang="scss">
 
     nav {
         display: flex;
