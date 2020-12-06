@@ -1,4 +1,5 @@
 import './scss/global.scss';
+import 'lazysizes';
 
 import App from './App.svelte';
 

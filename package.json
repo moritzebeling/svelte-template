@@ -17,6 +17,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "lazysizes": "^5.2.2",
     "node-sass": "^5.0.0",
     "rollup-plugin-scss": "^2.6.1",
     "sirv-cli": "^1.0.0",

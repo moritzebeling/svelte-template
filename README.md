@@ -13,6 +13,7 @@ npm install
 - `rollup-plugin-scss`
 - `svelte-preprocess`
 - `svelte-routing`
+- `lazysizes`
 
 ## Deploy
 
