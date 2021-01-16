@@ -28,7 +28,7 @@
 	<div class="swipe-wrap">
 		{#each images as image, i}
 
-			<figure title="{image.alt}">
+			<figure class="swipe-item" title="{image.alt}">
 
 				<slot prop={[image, i]}></slot>
 
@@ -62,7 +62,7 @@
         position: relative;
         height: 100%;
     }
-	figure {
+	.swipe-item {
         position: relative;
         height: 100%;
         width: 100%;
